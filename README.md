@@ -8,5 +8,5 @@ Técnico em Informática 31 - Senac São Carlos
 ![](https://github.com/barretorodrigo/cardapio/blob/master/screenshots/categorias.png)
 
 
-###Lista de produtos
+### Lista de produtos
 ![](https://github.com/barretorodrigo/cardapio/blob/master/screenshots/lista.png)
